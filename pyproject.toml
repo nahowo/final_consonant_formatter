@@ -11,7 +11,7 @@ authors = [
 lisence = { text = "MIT" }
 classifiers = [
     "Lisence :: OSI Approved :: MIT Lisence",
-    "Programming Language "" Python :: 3",
+    "Programming Language :: Python :: 3",
 ]
 description = "A simple package to attach correct case particles based on whether a Korean syllable ends with a final consonant."
 readme = "README.md"
