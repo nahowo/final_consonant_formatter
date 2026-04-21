@@ -8,9 +8,9 @@ version = "0.1.0"
 authors = [
   { name="Nahyun Park", email="nahowo@naver.com" },
 ]
-licence = { text = "MIT" }
+license = { text = "MIT" }
 classifiers = [
-    "Licence :: OSI Approved :: MIT Licence",
+    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
 ]
 description = "A simple package to attach correct case particles based on whether a Korean syllable ends with a final consonant."
