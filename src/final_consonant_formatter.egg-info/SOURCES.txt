@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/fc_formatter/__init__.py
-src/fc_formatter/formatter.py
-src/final_consonant_formatter.egg-info/PKG-INFO
-src/final_consonant_formatter.egg-info/SOURCES.txt
-src/final_consonant_formatter.egg-info/dependency_links.txt
-src/final_consonant_formatter.egg-info/top_level.txt
