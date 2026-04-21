@@ -8,4 +8,4 @@ def attach_iga(word: str) -> str:
     if (ord(last_char) - 44032) % 28 > 0:
         return f"{word}이"
     else:
-        f"{word}가"
+        return f"{word}가"
