@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Nahyun Park <nahowo@naver.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Final_Consonant_Formatter
 A simple Python package to attach correct case particles based on whether a Korean syllable ends with a final consonant. 
 

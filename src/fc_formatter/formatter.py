@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Nahyun Park <nahowo@naver.com>
+#
+# SPDX-License-Identifier: MIT
+
 def attach_iga(word: str) -> str:
     if not word:
         return word
