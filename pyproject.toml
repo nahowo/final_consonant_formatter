@@ -3,10 +3,15 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = ""
+name = "final_consonant_formatter"
 version = "0.1.0"
 authors = [
   { name="Nahyun Park", email="nahowo@naver.com" },
+]
+lisence = { text = "MIT" }
+classifiers = [
+    "Lisence :: OSI Approved :: MIT Lisence",
+    "Programming Language "" Python :: 3",
 ]
 description = "A simple package to attach correct case particles based on whether a Korean syllable ends with a final consonant."
 readme = "README.md"
