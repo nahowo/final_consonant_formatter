@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-from .formatter import attach_iga
+from .formatter import attach_iga, attach_eulreul
