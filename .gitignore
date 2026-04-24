@@ -6,3 +6,4 @@ requirements.txt
 scancode_result.json
 dist/
 *.egg-info/
+build/
