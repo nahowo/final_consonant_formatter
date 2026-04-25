@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "final_consonant_formatter"
-version = "0.1.1"
+version = "0.2.1"
 authors = [
   { name="Nahyun Park", email="nahowo@naver.com" },
 ]
