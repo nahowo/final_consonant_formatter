@@ -14,7 +14,7 @@ A simple Python package to attach correct case particles based on whether a Kore
     ```
 2. Import final_consonant_formatter package in python file or terminal
     ```py
-    from fc_formatter import attach_iga
+    from fc_formatter import attach_iga, attach_eulreul
     ```
 3. Use attach_iga function
     ```py
